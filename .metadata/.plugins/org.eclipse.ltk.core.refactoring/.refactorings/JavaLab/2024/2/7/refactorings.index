@@ -1,0 +1,175 @@
+1707729392943	Copy compilation units
+1707746707591	Extract local variable 'nextLine'
+1707746980222	Extract local variable 'nextLine'
+1707747580139	Extract local variable 'arr2'
+1707755305995	Extract local variable 'nextLine'
+1707755487705	Extract local variable 'line2'
+1707809986156	Extract local variable 'i2'
+1707848006849	Extract local variable 'date2'
+1707850968978	Copy compilation unit
+1707894739971	Extract local variable 'iterator'
+1707895408466	Extract local variable 'iterator'
+1707895746137	Extract local variable 'iterator'
+1707896231826	Copy compilation unit
+1707896330623	Extract local variable 'iterator'
+1707896748076	Extract local variable 'listIterator'
+1707896859154	Extract local variable 'iterator'
+1707898081384	Copy compilation unit
+1707898172721	Delete element
+1707898877017	Extract local variable 'iterator'
+1707899051346	Copy compilation unit
+1707899145459	Extract local variable 'iterator'
+1707900184342	Copy compilation unit
+1707901572453	Copy compilation unit
+1707903571438	Delete element
+1707903614335	Copy compilation unit
+1707913204609	Extract local variable 'keySet'
+1707913264659	Extract local variable 'values'
+1707913441909	Extract local variable 'keySet'
+1707913481939	Extract local variable 'string'
+1707913631755	Extract local variable 'entrySet'
+1707913721586	Extract local variable 'key'
+1707913729896	Extract local variable 'value'
+1707914046308	Extract local variable 'keySet'
+1707914072462	Extract local variable 'student'
+1707914132750	Extract local variable 'entrySet'
+1707914158458	Extract local variable 'key'
+1707914164837	Extract local variable 'value'
+1707914262461	Copy compilation unit
+1707914269049	Copy compilation unit
+1707914445465	Extract local variable 'keySet'
+1707914471023	Extract local variable 'key2'
+1707914539176	Extract local variable 'entrySet'
+1707914556321	Extract local variable 'key'
+1707914563557	Extract local variable 'value'
+1707915288653	Extract local variable 'entrySet'
+1707915364925	Extract local variable 'keySet'
+1707915396770	Extract local variable 'value'
+1707915847719	Extract local variable 'keySet'
+1707915865187	Extract local variable 'arrayList'
+1707920353118	Extract local variable 'line'
+1707920437201	Extract local variable 'charAt'
+1707920478961	Extract local variable 'integer'
+1707920662200	Extract local variable 'keySet'
+1707920685578	Extract local variable 'key2'
+1707920751123	Extract local variable 'string'
+1707921827726	Copy compilation unit
+1707927043428	Extract local variable 'key2'
+1707928664587	Extract local variable 'list'
+1707928715663	Extract local variable 'listFiles'
+1707932068108	Extract local variable 'listFiles'
+1707938023578	Delete element
+1707938102726	Extract local variable 'bytes'
+1707938119329	Delete element
+1707938326551	Copy compilation unit
+1707938345164	Rename type 'FileOutputStreamDemo3'
+1707938630669	Delete element
+1707938722812	Copy compilation unit
+1707939223897	Extract local variable 'i'
+1707940268015	Extract local variable 'len'
+1707986924850	Delete element
+1707987396761	Delete element
+1707987480258	Delete element
+1707988873629	Delete element
+1707991372794	Delete element
+1707993339537	Extract local variable 'regex'
+1707997193035	Extract local variable 'nextLine'
+1707997210456	Extract local variable 'nextInt'
+1707998349366	Extract local variable 'name'
+1707998534268	Extract local variable 'listFiles'
+1707998645033	Extract local variable 'name'
+1708002237321	Extract local variable 'listFiles'
+1708005085869	Delete element
+1708005107839	Delete element
+1708005128389	Delete element
+1708005768601	Delete element
+1708006031604	Extract local variable 'object'
+1708006273131	Extract local variable 'keySet'
+1708006296764	Extract local variable 'key2'
+1708006338644	Extract local variable 'entrySet'
+1708006354003	Extract local variable 'key'
+1708006360941	Extract local variable 'value'
+1708006502770	Copy compilation unit
+1708007075199	Extract local variable 'key2'
+1708009808555	Extract local variable 'key'
+1708024364117	Copy compilation unit
+1708024369765	Copy compilation unit
+1708024801113	Copy compilation unit
+1708024810114	Copy compilation unit
+1708026015901	Delete element
+1708026077581	Copy compilation unit
+1708026082505	Copy compilation unit
+1708058792305	Extract local variable 'host'
+1708058830583	Extract local variable 'hostName'
+1708058844404	Extract local variable 'hostAddress'
+1708062662422	Extract local variable 'host'
+1708064962794	Extract local variable 'outputStream'
+1708065308553	Extract local variable 'accept'
+1708065323624	Extract local variable 'inputStream'
+1708065485634	Copy compilation unit
+1708065492905	Copy compilation unit
+1708065689802	Extract local variable 'outputStream'
+1708065800608	Copy compilation unit
+1708065805528	Copy compilation unit
+1708065926118	Extract local variable 'outputStream'
+1708066644002	Copy compilation unit
+1708066649459	Copy compilation unit
+1708066945373	Copy compilation unit
+1708066950675	Copy compilation unit
+1708067039266	Copy compilation unit
+1708067855008	Copy compilation unit
+1708067859873	Copy compilation unit
+1708068253409	Delete element
+1708068407944	Delete element
+1708068517668	Copy compilation unit
+1708068522782	Copy compilation unit
+1708070513307	Extract local variable 'i'
+1708071138424	Copy compilation unit
+1708071147242	Copy compilation unit
+1708072844605	Copy compilation unit
+1708075570328	Delete element
+1708075674657	Delete element
+1708075678011	Delete element
+1708075808422	Extract local variable 's'
+1708076208512	Extract local variable 'upperCase'
+1708076340023	Extract local variable 'upperCase'
+1708077190838	Extract local variable 'bulid'
+1708106997981	Copy compilation unit
+1708108067007	Extract local variable 's2'
+1708108266137	Extract local variable 'i2'
+1708108493800	Extract local variable 's2'
+1708108951030	Extract local variable 's2'
+1708109525506	Extract local variable 'stream'
+1708109551498	Extract local variable 'stream'
+1708109636362	Extract local variable 'stream'
+1708109662457	Extract local variable 'stream2'
+1708109674958	Extract local variable 'stream3'
+1708109754682	Extract local variable 'strArray2'
+1708109842023	Extract local variable 'i'
+1708110909728	Extract local variable 'limit'
+1708110920900	Extract local variable 'n'
+1708111910989	Extract local variable 'sum'
+1708112115026	Extract local variable 'count'
+1708112624032	Extract local variable 'concat'
+1708114133972	Extract local variable 'keySet'
+1708114183352	Extract local variable 's2'
+1708153229232	Extract local variable 'parent'
+1708154167807	Extract local variable 'class1'
+1708154272555	Extract local variable 'forName'
+1708157858479	Extract local variable 'class1'
+1708157936934	Extract local variable 'string'
+1708158628791	Extract local variable 'fields'
+1708159313338	Extract local variable 'constructors'
+1708159366209	Extract local variable 'newInstance'
+1708159408101	Extract local variable 'name'
+1708161649202	Extract local variable 'methods'
+1708162026849	Extract local variable 'newInstance'
+1708162348947	Extract local variable 'constructor'
+1708162401877	Extract local variable 'string'
+1708162564122	Extract local variable 'invoke'
+1708162969804	Extract local variable 'class1'
+1708163006426	Extract local variable 'method'
+1708163139855	Rename type 'Sutdent'
+1708163509766	Extract local variable 'forName'
+1708163525851	Extract local variable 'constructor'
+1708163541543	Extract local variable 'newInstance'

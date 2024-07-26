@@ -1,0 +1,27 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+
+public class TreeTraversal {
+	public static void main(String[] args) {
+		TreeNode root = new TreeNode(new TreeNode(new TreeNode(4), 2, null), 1,
+				new TreeNode(new TreeNode(5), 3, new TreeNode(6)));
+	}
+	
+	
+	//前序邊勵 Params:node-節點
+	static void preOrder(TreeNode node) {
+		
+	}
+	
+	//中序邊勵 Params:node-節點
+	static void inOrder(TreeNode node) {
+		
+	}
+	
+	//後序邊勵 Params:node-節點
+	static void postOrder(TreeNode node) {
+		
+	}
+	
+}

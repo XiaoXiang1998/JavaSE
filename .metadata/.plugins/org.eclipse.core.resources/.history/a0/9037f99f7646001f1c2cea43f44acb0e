@@ -1,0 +1,18 @@
+package xiang_134;
+
+public class E03Leetcode703 {
+
+	private MinHeap heap;
+
+	public E03Leetcode703(int k, int[] nums) {
+		heap = new MinHeap(k);
+	}
+
+	public int add(int val) {
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

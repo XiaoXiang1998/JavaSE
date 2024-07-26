@@ -1,0 +1,23 @@
+1720347249216	Extract local variable 'node'
+1720357257246	Extract local variable 'f'
+1720359882578	Extract local variable 'search'
+1720431058176	Extract local variable 'f'
+1720512198346	Extract method 'print'
+1720513778807	Move compilation unit
+1720523149510	Extract local variable 'first'
+1720602750068	Extract local variable 'removeElements'
+1720609186180	Extract local variable 'nth'
+1720685842379	Inline method 'middle'
+1720685851478	Inline method 'reverse'
+1720698079625	Extract local variable 'added'
+1720699068731	Extract local variable 'empty'
+1720699722168	Extract local variable 'full'
+1720702393491	Rename type 'ArrayQueue'
+1720702409158	Copy compilation unit
+1720777030261	Copy compilation unit
+1720777642428	Extract local variable 'value'
+1720778196591	Extract local variable 'poll'
+1720787100410	Extract local variable 'n'
+1720795670174	Extract local variable 'c'
+1720803494149	Extract local variable 'b'
+1720803501996	Extract local variable 'a'

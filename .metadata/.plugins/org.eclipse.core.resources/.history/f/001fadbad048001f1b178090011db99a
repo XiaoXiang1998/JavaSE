@@ -1,0 +1,13 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+
+public class E07Leetcode226 {
+	private TreeNode invertThree(TreeNode root) {
+
+	}
+
+	private static void fn(TreeNode node) {
+		TreeNode t = node.left;
+	}
+}

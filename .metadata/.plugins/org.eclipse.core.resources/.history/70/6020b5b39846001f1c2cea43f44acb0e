@@ -1,0 +1,25 @@
+package xiang_134;
+/*
+ * 可以擴容的heap,max 用於指定是大頂堆還是小頂堆
+ */
+public class Heap {
+	int[] array;
+	int size;
+	boolean max;
+
+	public int getSize() {
+		return size;
+	}
+	
+	
+
+	public Heap(int capacity, boolean max) {
+		this.array = new int[capacity];
+		this.max = max;
+	}
+	
+	// 獲取堆頂元素 Params:堆頂元素
+			public int peek() {
+				return array[0];
+			}
+}

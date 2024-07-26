@@ -1,0 +1,5 @@
+package xiang_133;
+
+public interface BlockingQueue {
+
+}

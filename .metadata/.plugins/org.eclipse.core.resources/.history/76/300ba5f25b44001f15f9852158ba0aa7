@@ -1,0 +1,6 @@
+package xiang_133;
+
+public interface BlockingQueue<E> {
+	void offer(E e) throws InterruptedException;
+	
+}

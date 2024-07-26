@@ -1,0 +1,15 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+
+public class E06Leetcode111_1 {
+
+	public int minDepth(TreeNode node) {
+		if (node == null) {
+			return 0;
+		}
+		int d1 = minDepth(node.left);
+		int d2 = minDepth(node.right);
+		return Integer.min(d1, d2);
+	}
+}

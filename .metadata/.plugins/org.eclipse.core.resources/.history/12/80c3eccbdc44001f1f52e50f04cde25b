@@ -1,0 +1,33 @@
+package xiang_133;
+
+import java.util.Arrays;
+import java.util.concurrent.locks.ReentrantLock;
+
+/*
+ * synchronized 關鍵字 ,功能少
+ * ReentrantLock 可重入鎖,功能多
+ */
+public class TestThreadUnsafe {
+	private final String[] array = new String[10];
+	private int tail = 0;
+	ReentrantLock lock = new ReentrantLock(); // 鎖對象
+
+	public void offer(String e) {
+		lock.lock();
+		array[tail] = e;
+		tail++;
+		lock.unlock();
+	}
+
+	@Override
+	public String toString() {
+		return Arrays.toString(array);
+	}
+
+	public static void main(String[] args) {
+		TestThreadUnsafe queue = new TestThreadUnsafe();
+
+		queue.offer("e1");
+		queue.offer("e2");
+	}
+}

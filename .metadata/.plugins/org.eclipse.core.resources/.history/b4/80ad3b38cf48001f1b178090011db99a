@@ -1,0 +1,13 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+
+/*
+ * 二叉樹最小深度-層序邊勵實現
+ */
+public class E06Leetcode111_2 {
+
+	public int minDepth(TreeNode node) {
+
+	}
+}

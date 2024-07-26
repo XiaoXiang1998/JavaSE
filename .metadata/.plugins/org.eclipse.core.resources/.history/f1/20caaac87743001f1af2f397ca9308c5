@@ -1,0 +1,7 @@
+package xiang_132;
+
+//小頂堆
+public class MinHeap {
+	ListNode[] array;
+	int size;
+}

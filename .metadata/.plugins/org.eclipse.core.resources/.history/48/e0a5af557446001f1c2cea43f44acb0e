@@ -1,0 +1,14 @@
+package xiang_134;
+
+public class E02Leetcode215 {
+	public int findKthLargest(int[] numbers, int k) {
+		MinHeap heap =new MinHeap(k);
+		for(int i=0;i<k;i++) {
+			heap.offer(numbers[i]);
+		}
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,25 @@
+package xiang_133;
+
+import java.util.Arrays;
+
+public class TestThreadUnsafe {
+	private final String[] array = new String[10];
+	private int tail = 0;
+
+	public void offer(String e) {
+		array[tail] = e;
+		tail++;
+	}
+
+	@Override
+	public String toString() {
+		return Arrays.toString(array);
+	}
+
+	public static void main(String[] args) {
+		TestThreadUnsafe queue = new TestThreadUnsafe();
+
+		queue.offer("e1");
+		queue.offer("e2");
+	}
+}

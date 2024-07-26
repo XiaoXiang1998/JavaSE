@@ -1,0 +1,11 @@
+package xiang_135;
+
+public class E10Leetcode106 {
+
+	/*
+	 * preOrder={1,2,4,3,6,7}; inOrder={4,2,1,6,3,7};
+	 */
+	public TreeNode buildTree(int[] inorder, int[] postorder) {
+
+	}
+}

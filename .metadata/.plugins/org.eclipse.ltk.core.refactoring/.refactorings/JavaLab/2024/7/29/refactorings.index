@@ -1,0 +1,16 @@
+1720948820146	Extract local variable 'c'
+1720967398690	Extract local variable 'e'
+1720967420127	Extract local variable 'p'
+1720967745907	Extract local variable 'empty'
+1720967752577	Extract local variable 'full'
+1721127537105	Extract local variable 'max'
+1721128513735	Extract local variable 'value'
+1721128735910	Copy compilation unit
+1721129708233	Extract local variable 'peek'
+1721131432458	Copy compilation unit
+1721137549870	Extract local variable 'min'
+1721290008743	Extract local variable 'lock'
+1721296092635	Copy compilation unit
+1721303261840	Copy compilation unit
+1721417097059	Extract local variable 'maxHeap'
+1721481712953	Copy compilation unit

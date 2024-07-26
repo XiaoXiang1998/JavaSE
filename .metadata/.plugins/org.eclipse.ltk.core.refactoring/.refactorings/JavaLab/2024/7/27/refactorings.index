@@ -1,0 +1,14 @@
+1720085573280	Extract local variable 'binarySearchBasic'
+1720107709233	Extract local variable 'linearSearch'
+1720189871406	Extract local variable 'i'
+1720191646853	Extract local variable 'removed'
+1720191919404	Extract local variable 'removed'
+1720197541596	Extract method 'checkAndGrow'
+1720274902168	Convert anonymous class to nested
+1720276098906	Extract local variable 'node'
+1720276194008	Extract local variable 'i'
+1720276463032	Extract local variable 'prev'
+1720276507451	Extract local variable 'node'
+1720276775617	Extract method 'illegalIndex'
+1720279339274	Extract local variable 'prev'
+1720283707934	Copy compilation unit

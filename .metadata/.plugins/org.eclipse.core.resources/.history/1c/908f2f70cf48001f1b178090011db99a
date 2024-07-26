@@ -1,0 +1,40 @@
+package xiang_135;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+import xiang_129.TreeNode;
+
+/*
+ * 二叉樹最小深度-層序邊勵實現
+ */
+public class E06Leetcode111_2 {
+	/*
+	 * 層序邊勵:遇到的第一個葉子節點所在層就是最小深度
+	 */
+	public int minDepth(TreeNode root) {
+		if (root == null) {
+			return 0;
+		}
+		Queue<TreeNode> queue = new LinkedList<TreeNode>();
+		queue.offer(root);
+		int depth = 0;
+		while (!queue.isEmpty()) {
+			// queue.size()
+			int size = queue.size();
+			for (int i = 0; i < size; i++) {
+				TreeNode poll = queue.poll();
+				// System.out.print(poll.val + "\t");
+				if (poll.left != null) {
+					queue.offer(poll.left);
+				}
+				if (poll.right != null) {
+					queue.offer(poll.right);
+				}
+			}
+			// System.out.println();
+			depth++;
+		}
+		return depth;
+	}
+}

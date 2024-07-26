@@ -1,0 +1,10 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+
+public class E01Leetcode144 {
+	public static void main(String[] args) {
+		TreeNode root = new TreeNode(new TreeNode(new TreeNode(4), 2, null), 1,
+				new TreeNode(new TreeNode(5), 3, new TreeNode(6)));
+	}
+}

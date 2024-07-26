@@ -1,0 +1,26 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+import xiang_130.LinkedListStack;
+
+public class E01Leetcode144 {
+	public static void main(String[] args) {
+		TreeNode root = new TreeNode(new TreeNode(new TreeNode(4), 2, null), 1,
+				new TreeNode(new TreeNode(5), 3, new TreeNode(6)));
+
+		LinkedListStack<TreeNode> stack = new LinkedListStack<TreeNode>();
+
+		TreeNode curr = root; // 代表當前節點
+
+		while (curr != null ||!stack.isEmpty()) {
+			if (curr != null) {
+				System.out.println("去:" + curr.val);
+				stack.push(curr); // 壓入棧,為了記住回來的路
+				curr = curr.left;
+			} else {
+				TreeNode pop = stack.pop();
+				System.out.println("回:" + pop.val);
+			}
+		}
+	}
+}

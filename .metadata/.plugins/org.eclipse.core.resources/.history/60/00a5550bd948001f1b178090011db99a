@@ -1,0 +1,16 @@
+package xiang_135;
+
+import xiang_129.TreeNode;
+/*
+ * 根據前序中序邊勵結果構造二叉樹
+ */
+public class E09Leetcode105 {
+
+	/*
+	 * preOrder={1,2,4,3,6,7}; inOrder={4,2,1,6,3,7};
+	 */
+
+	public TreeNode buildTree(int[] preOrder, int[] inOrder) {
+		
+	}
+}

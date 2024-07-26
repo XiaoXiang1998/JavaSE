@@ -1,0 +1,20 @@
+1721649587415	Extract local variable 'pop'
+1721651142535	Extract local variable 'peek'
+1721670240524	Extract local variable 'd1'
+1721670542472	Copy compilation unit
+1721670819843	Extract local variable 'peek'
+1721670964060	Extract local variable 'size'
+1721671122860	Copy compilation unit
+1721671293139	Extract local variable 'poll'
+1721671862687	Extract local variable 'size'
+1721723668925	Extract local variable 'd1'
+1721723680251	Extract local variable 'd2'
+1721723978613	Copy compilation unit
+1721725744385	Extract local variable 'right'
+1721725797857	Extract local variable 'root'
+1721728295366	Extract local variable 'rootvalue'
+1721728467650	Extract local variable 'inLeft'
+1721728638649	Extract local variable 'preLeft'
+1721732530152	Extract local variable 'root'
+1721732634369	Extract local variable 'inLeft'
+1721732698641	Extract local variable 'postLeft'

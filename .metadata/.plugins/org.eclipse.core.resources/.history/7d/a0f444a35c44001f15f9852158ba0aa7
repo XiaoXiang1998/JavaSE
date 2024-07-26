@@ -1,0 +1,5 @@
+package xiang_133;
+
+public class TestThreadUnsafe {
+	private final String[] array = new String[10];
+}

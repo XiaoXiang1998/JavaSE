@@ -1,0 +1,26 @@
+package xiang_135;
+
+import java.util.LinkedList;
+
+import xiang_129.TreeNode;
+
+public class E08ExpressionTree {
+	
+	static class TreeNode{
+		
+	}
+	
+	public TreeNode constructExpressionTree(String[] tokens) {
+		LinkedList<TreeNode> stack =new LinkedList<>();
+		for (String t : tokens) {
+			switch(t) {
+			case "+","-","*","/"->{
+				
+			}
+			default ->{
+				
+			}
+			}
+		}
+	}
+}

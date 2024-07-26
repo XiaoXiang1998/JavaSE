@@ -1,0 +1,16 @@
+package xiang_134;
+
+public class Heap {
+	int[] array;
+	int size;
+	boolean max;
+
+	public int getSize() {
+		return size;
+	}
+
+	public Heap(int capacity, boolean max) {
+		this.array = new int[capacity];
+		this.max = max;
+	}
+}

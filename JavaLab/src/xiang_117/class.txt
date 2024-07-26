@@ -1,0 +1,2 @@
+className=xiang_117.Student
+methodName=study

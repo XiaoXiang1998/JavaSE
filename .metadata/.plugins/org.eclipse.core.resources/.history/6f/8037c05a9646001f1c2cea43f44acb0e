@@ -1,0 +1,11 @@
+package xiang_134;
+
+public class Heap {
+	int[] array;
+	int size;
+	boolean max;
+
+	public int getSize() {
+		return size;
+	}
+}

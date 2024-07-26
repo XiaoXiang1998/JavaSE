@@ -1,0 +1,32 @@
+package xiang_132;
+
+import xiang_127.ListNode;
+
+//小頂堆
+public class MinHeap {
+	ListNode[] array;
+	int size;
+
+	public MinHeap(int capacity) {
+		array = new ListNode[capacity];
+	}
+
+	public boolean offer(ListNode offered) {
+		if (isFull()) {
+			return false;
+		}
+		int child = size++;
+		int parent = (child - 1) / 2;
+		while (child > 0 && offered.priority() < array[parent].priority()) {
+			array[child] = array[parent];
+			child = parent;
+			parent = (child - 1) / 2;
+		}
+		array[child] = offered;
+		return true;
+	}
+	
+	public ListNode poll() {
+		
+	}
+}
